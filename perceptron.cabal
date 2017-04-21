@@ -1,8 +1,8 @@
 name:                perceptron
 version:             0.1.0.0
-synopsis:            Simple project template from stack
+synopsis:            Perceptron classification of points
 description:         Please see README.md
-homepage:            https://github.com/qsctr/perceptron
+homepage:            https://github.com/qsctr/simple-perceptron
 license:             MIT
 license-file:        LICENSE
 author:              Bretton
