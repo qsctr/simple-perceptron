@@ -8,7 +8,7 @@ license-file:        LICENSE
 author:              Bretton
 maintainer:          brettonchen@gmail.com
 copyright:           2017 Bretton
-category:            Web
+category:            Machine Learning
 build-type:          Simple
 cabal-version:       >=1.10
 extra-source-files:  README.md
